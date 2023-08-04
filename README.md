@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a THREE.JS Mutliplayer App
+- 🌱 I’m currently learning Google Cloud and THREE.js
+
+<div style="text-align: center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RedAty&show_icons=true&locale=en&layout=compact" alt="RedAty" /></div>
 <!--
 **RedAty/RedAty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
